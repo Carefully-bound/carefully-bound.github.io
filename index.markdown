@@ -2,8 +2,6 @@
 
 ---
 
-{{ site.description }}
-
 ### Posts
 
 <ul>
