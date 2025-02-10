@@ -7,13 +7,13 @@ layout: default
         {% if page.previous %}
             <a href="{{ page.previous.url}}">Previous Post</a>
         {% else %}
-            <i>No Previous Post</i>
+            No Previous Post
         {% endif %}
         </span>
     </div>
     <div class="post-header-column">
         <span>
-            <a href="{{ site.baseurl }}">Home</a>
+            <a href="{{ site.url }}">Home</a>
         </span>
     </div>
     <div class="post-header-column">
@@ -21,7 +21,7 @@ layout: default
         {% if page.next %}
             <a href="{{ page.next.url}}">Next Post</a>
         {% else %}
-            <i>No Next Post</i>
+            No Next Post
         {% endif %}
         </span>
     </div>
