@@ -1,9 +1,10 @@
 ---
-# layout: post
 title:  A Collaring Halloween
+excerpt_separator: <!--more-->
 ---
 
 It was Halloween night at Tess' place, an upperclassman who I'd always considered too cool to hang out with. Nick was her boyfriend, and he was in fact quite _pretty_. Quiet, too; he just faded into the background on the couch, keeping to himself while everyone else was getting all wound up over Rocky Horror Picture Show. I wasn't particularly feeling the antics, so we ended up talking about music through most of it. Turns out, he was into a lot of the same stuff I am. I was pretty quickly enamoured.
+<!--more-->
 
 I went with him, his girlfriend Tess, and a bunch of others to a diner after, stayed until they closed. By that point he'd come out of his shell and gotten in on the energy of the group. I'd been hanging around him since the music topic - we were having fun, and Tess didn't seem phased at all.
 

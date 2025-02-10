@@ -1,9 +1,10 @@
 ---
-# layout: post
 title:  Remembering
+excerpt_separator: <!--more-->
 ---
 
 Ani Difranco jut popped on the speaker, and I was already feeling whistful. I can hardly hear some of Difranco's songs without thinking back to highschool, a messy, ugly, painful time. I can almost taste the depression at the back of my throat, feel the despair swelling in my eyes. 
+<!--more-->
 
 I don't really know why we thought it was a good idea, being together, dragging each other into that spiral. I don't know if she'd have gone down with me, but I almost definitely would've gone a different way without her. The stories, the lies, they were complicated and painful and somehow we couldn't find anything else once we were surrounded by them.
 
