@@ -2,12 +2,22 @@
 ---
 @import "{{ site.theme }}";
 
+// -- Overall --
+
 // Hide the link to source
 #header {
     display: none;
 }
+// clean up spacing
+section {
+    margin-top: 0px;
+}
+#title {
+    margin-bottom: 1rem;
+}
 
-// Post-Specific
+// -- Posts --
+
 .post-header-column {
     float: left;
     width: 33.33%;
@@ -15,6 +25,9 @@
     box-sizing: border-box;
     text-align: center;
     font-style: italic;
+}
+.post-header-wrapper {
+    margin-bottom: 2rem;
 }
 .post-header-wrapper::after {
     content: "";
