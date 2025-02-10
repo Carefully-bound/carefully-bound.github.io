@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  Remembering
 excerpt_separator: <!--more-->
 ---
