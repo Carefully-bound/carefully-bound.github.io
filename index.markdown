@@ -5,7 +5,6 @@
 ## Posts
 
 {% for post in site.posts %}
-### <a href="{{ post.url }}">{{ post.title }}</a>
+### _{{ post.date }}:_ <a href="{{ post.url }}">{{ post.title }}</a>
 <blockquote>{{ post.excerpt }}</blockquote>
-
 {% endfor %}
