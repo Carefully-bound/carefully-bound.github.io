@@ -7,7 +7,7 @@ layout: default
         {% if page.previous %}
             <a href="{{ page.previous.url}}">Previous Post</a>
         {% else %}
-            _No Previous Post_
+            <i>No Previous Post</i>
         {% endif %}
         </span>
     </div>
@@ -21,12 +21,10 @@ layout: default
         {% if page.next %}
             <a href="{{ page.next.url}}">Next Post</a>
         {% else %}
-            _No Next Post_
+            <i>No Next Post</i>
         {% endif %}
         </span>
     </div>
 </div>
 
-<section>
-    {{ content }}
-</section>
+{{ content }}
