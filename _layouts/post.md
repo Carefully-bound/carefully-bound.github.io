@@ -1,25 +1,29 @@
 ---
 layout: default
 ---
-<div class="row">
-    <div class="column">
-        {% if page.previous %}
+<div class="post-header-wrapper">
+    <div class="post-header-column">
         <span>
+        {% if page.previous %}
             <a href="{{ page.previous.url}}">Previous Post</a>
-        </span>
+        {% else %}
+            _No Previous Post_
         {% endif %}
+        </span>
     </div>
-    <div class="column">
+    <div class="post-header-column">
         <span>
             <a href="{{ site.baseurl }}">Home</a>
         </span>
     </div>
-    <div class="column">
-        {% if page.next %}
+    <div class="post-header-column">
         <span>
+        {% if page.next %}
             <a href="{{ page.next.url}}">Next Post</a>
-        </span>
+        {% else %}
+            _No Next Post_
         {% endif %}
+        </span>
     </div>
 </div>
 

@@ -1,0 +1,17 @@
+---
+---
+@import "{{ site.theme }}";
+
+.post-header-column {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+.post-header-wrapper::after {
+    content: "";
+    clear: both;
+    display: table;
+}
